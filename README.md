@@ -4,7 +4,7 @@
 
 <!-- CUSTOM ANIMATED HERO BANNER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,40:302B63,100:00C9FF&height=230&section=header&text=SAAD%20SHALLAN&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=JUNIOR%20SOFTWARE%20ENGINEER&descSize=19&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,40:302B63,100:00C9FF&height=230&section=header&text=SAAD%20SHALLAN&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=%20SOFTWARE%20ENGINEER&descSize=19&descAlignY=60&animation=fadeIn" />
 
 <!-- ANIMATED GREETING -->
 
@@ -44,14 +44,14 @@
 
 <img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a **Junior Software Engineer** and Electrical & Communication Engineering graduate passionate about building practical, scalable, and user-focused software applications.
+I'm a **Software Engineer** and Electronics & Communication Engineering graduate specialized in building practical, innovative, scalable, and user-focused software applications.
 
-I enjoy exploring different technologies, understanding software architecture, and transforming ideas into functional applications.
+I enjoy exploring different ideas of technologies, understanding software architecture, and transforming ideas into functional & innovative applications.
 
-- 💻 Interested in mobile and web application development.
-- 📱 Experienced in building Flutter applications and developing with Swift.
-- 🌐 Exploring modern web technologies and application architecture.
-- 🧠 Interested in backend systems, databases, and AI-powered applications.
+- 💻 Specialized in mobile and web application development front and backend.
+- 📱 Experienced in building Flutter applications and developing with IOS Swift.
+- 🌐 Interested modern web technologies and application architecture.
+- 🧠 Exploring in AI Automation, RPA solutions and AI-powered applications.
 - 🚀 Focused on continuous learning and improving my engineering skills.
 
 <br clear="right"/>
@@ -120,7 +120,7 @@ A mobile application designed to help users organize and manage their workout ro
 
 <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/NODE.JS-06B6D4?style=flat-square&logo=nodedotjs&logoColor=white" />
 
 <br/><br/>
 
@@ -195,4 +195,4 @@ An interactive musical application featuring seven colorful sound tiles that all
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-201&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B7CFF" />
 
-<br/><br
+<br/><br>
